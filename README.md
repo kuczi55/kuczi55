@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/kuczi55/kuczi55/animation/github-contribution-grid-snake.svg]
+![activity](https://raw.githubusercontent.com/kuczi55/kuczi55/animation/github-contribution-grid-snake.svg)
 
 <!--
 **kuczi55/kuczi55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
